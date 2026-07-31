@@ -1,0 +1,14 @@
+C:\Users\Lenovo\guessinggameC#\guessinggame\bin\Debug\net10.0\guessinggame.exe
+C:\Users\Lenovo\guessinggameC#\guessinggame\bin\Debug\net10.0\guessinggame.deps.json
+C:\Users\Lenovo\guessinggameC#\guessinggame\bin\Debug\net10.0\guessinggame.runtimeconfig.json
+C:\Users\Lenovo\guessinggameC#\guessinggame\bin\Debug\net10.0\guessinggame.dll
+C:\Users\Lenovo\guessinggameC#\guessinggame\bin\Debug\net10.0\guessinggame.pdb
+C:\Users\Lenovo\guessinggameC#\guessinggame\obj\Debug\net10.0\guessinggame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\guessinggameC#\guessinggame\obj\Debug\net10.0\guessinggame.AssemblyInfoInputs.cache
+C:\Users\Lenovo\guessinggameC#\guessinggame\obj\Debug\net10.0\guessinggame.AssemblyInfo.cs
+C:\Users\Lenovo\guessinggameC#\guessinggame\obj\Debug\net10.0\guessinggame.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\guessinggameC#\guessinggame\obj\Debug\net10.0\guessinggame.dll
+C:\Users\Lenovo\guessinggameC#\guessinggame\obj\Debug\net10.0\refint\guessinggame.dll
+C:\Users\Lenovo\guessinggameC#\guessinggame\obj\Debug\net10.0\guessinggame.pdb
+C:\Users\Lenovo\guessinggameC#\guessinggame\obj\Debug\net10.0\guessinggame.genruntimeconfig.cache
+C:\Users\Lenovo\guessinggameC#\guessinggame\obj\Debug\net10.0\ref\guessinggame.dll
